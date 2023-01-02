@@ -5,3 +5,6 @@
      * coc-eslint
      * tsserver
      * coc-styled-components
+     * coc-prettier
+     * coc-exlorer
+     * coc-snippets
